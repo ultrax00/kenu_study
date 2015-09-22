@@ -1,5 +1,5 @@
 # kenu_study
- echo "# kenu_study" >> README.md
+ * echo "# kenu_study" >> README.md
  ls
 ls -al
 rm README md
@@ -17,3 +17,5 @@ git status
 git remote -v
 git push -u origin master
 ls
+
+* http://www.slideshare.net/kenu/okspring3x  <--

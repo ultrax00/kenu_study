@@ -1,6 +1,6 @@
 # kenu_study
-echo "# kenu_study" >> README.md
-ls
+ echo "# kenu_study" >> README.md
+ ls
 ls -al
 rm README md
 ls

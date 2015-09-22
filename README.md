@@ -17,5 +17,6 @@ git status
 git remote -v
 * git push -u origin master
 
-
+* 유튜브 저장하기 .. 앞에다가 s 넣기.
 * http://www.slideshare.net/kenu/okspring3x  <--
+* https://www.youtube.com/watch?v=sa_zOGG5cs4  <-- 9.22 

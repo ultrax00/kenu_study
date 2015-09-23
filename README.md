@@ -23,3 +23,4 @@ git remote -v
 * https://www.youtube.com/watch?v=0Dn2A4GVWNY&noredirect=1 <-- 쉬운스프링이야기2-2
 * 단축키
 * 메소드에서 ( ctl + T : 상속구조 보기 , ctl + O : 메소드 정보보기  ) : 맥에서는 ctl 대신에 command
+* http://okjsp.tistory.com/search/kkaok  <-- 전략패턴 

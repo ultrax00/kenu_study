@@ -48,4 +48,4 @@ git remote -v
 * jenkins.ci.org??
 * war down, java -jar jenkins.war 
 * subversion install
-* 
+* https://github.com/ultrax00/kenu_study/  에 mvc 추가하기 ; 이클립스에서 ..

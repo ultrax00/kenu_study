@@ -24,6 +24,7 @@ git remote -v
 * 단축키
 * 메소드에서 ( ctl + T : 상속구조 보기 , ctl + O : 메소드 정보보기  ) : 맥에서는 ctl 대신에 command
 * Ctl + Shift + R :  파일명을 오픈시켜줌.
+* Ctl + Shilf + F : 파일내용 정렬 
 * http://okjsp.tistory.com/search/kkaok  <-- 전략패턴 
 * IOC/DI
 * PSA :포터블 서비스 추상화. 환경에 종속되지 않도록 유연한 추상 계층 .
@@ -36,3 +37,15 @@ git remote -v
 * Struts : 
 * 스프링 프레임워크 레이어 : 
 * UI -> Controll -> Service(POJO) -> DAO 
+* https://www.youtube.com/watch?v=yKQTj9Qrhlg  <-- 3-1, 9.23 수 
+* jar 
+* javac -d . hello/helloWorld.java
+* java -jar target/gs-maven-0.1.0.jar
+* jar tvf target/gs-maven-0.1.0.jar
+* find . -type f
+* http://okjsp.tistory.com/tag/tomcat : 메이븐에서 톰켓 호출 . 아래 .
+* http://localhost:8080/spring/  <-   mvn package tomcat:run  하면 ... 톰켓실행이 된다
+* jenkins.ci.org??
+* war down, java -jar jenkins.war 
+* subversion install
+* 

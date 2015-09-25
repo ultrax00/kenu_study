@@ -48,4 +48,10 @@ git remote -v
 * jenkins.ci.org??
 * war down, java -jar jenkins.war 
 * subversion install
-* https://github.com/ultrax00/kenu_study/  에 mvc 추가하기 ; 이클립스에서 ..
+* https://github.com/ultrax00/kenu_study/  에 mvc 추가하기 ; 이클립스에서 .. 
+## https://www.youtube.com/watch?v=xII95aPMnIc <--4-1 , 9.25
+* InfoQ  site
+* draw.io   <-- make a diagram
+* virtualBox.org
+* git reset --hard    <-- 커밋전 취소?
+
